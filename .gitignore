@@ -1,0 +1,8 @@
+/target
+
+# env files 
+.env*
+
+**/*.rs.bk
+Cargo.lock
+.DS_Store
